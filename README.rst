@@ -1,20 +1,20 @@
 iexfinance
 ==========
 
-.. image:: https://travis-ci.org/addisonlynch/iexfinance.svg?branch=master
-    :target: https://travis-ci.org/addisonlynch/iexfinance
+.. raw:: html
 
-.. image:: https://codecov.io/gh/addisonlynch/iexfinance/branch/master/graphs/badge.svg?branch=master
-	:target: https://codecov.io/gh/addisonlynch/iexfinance
+   <h2 align="center">⚠️ No longer maintained</h2>
 
-.. image:: https://badge.fury.io/py/iexfinance.svg
-    :target: https://badge.fury.io/py/iexfinance
+**iexfinance is an SDK for the IEX Cloud API, which was shut down by IEX
+on August 31, 2024.** With the upstream data provider gone, this library no
+longer functions and will not receive further updates.
+
+The code is left online for reference and forking. 
+
+----
 
 .. image:: https://img.shields.io/badge/License-Apache%202.0-blue.svg
     :target: https://opensource.org/licenses/Apache-2.0
-
-Python SDK for `IEX Cloud <https://iexcloud.io>`__. Architecture mirrors
-that of the IEX Cloud API (and its `documentation <https://iexcloud.io/docs/api/>`__).
 
 An easy-to-use toolkit to obtain data for Stocks, ETFs, Mutual Funds,
 Forex/Currencies, Options, Commodities, Bonds, and Cryptocurrencies:
